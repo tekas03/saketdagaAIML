@@ -1,0 +1,101 @@
+User_ID,Age,Gender,Preferred_Genre,Song_ID,Song_Name,Artist,Genre,Rating
+1,20,Female,Jazz,S3438,Positions,Ariana Grande,Country,5
+2,33,Female,Pop,S8740,Save Your Tears,The Weeknd,Reggae,3
+3,28,Male,Pop,S6742,Good 4 U,Olivia Rodrigo,Metal,2
+4,18,Female,Jazz,S9631,Levitating,Dua Lipa,Electronic,2
+5,64,Male,Classical,S6179,Levitating,Dua Lipa,Country,4
+6,33,Female,Jazz,S2349,Stay,The Kid LAROI,Hip-Hop,2
+7,49,Non-Binary,Rock,S1671,Save Your Tears,The Weeknd,Metal,2
+8,50,Female,Jazz,S9521,Save Your Tears,The Weeknd,Country,1
+9,40,Male,Metal,S4493,Good 4 U,Olivia Rodrigo,Classical,2
+10,45,Non-Binary,Reggae,S5962,Save Your Tears,The Weeknd,Classical,2
+11,57,Male,Hip-Hop,S4634,Drivers License,Olivia Rodrigo,Blues,3
+12,56,Male,Country,S3283,Save Your Tears,The Weeknd,Rock,3
+13,28,Non-Binary,Blues,S1799,Watermelon Sugar,Harry Styles,Pop,5
+14,13,Male,Reggae,S7156,Peaches,Justin Bieber,Hip-Hop,2
+15,36,Non-Binary,Hip-Hop,S4525,Levitating,Dua Lipa,Pop,5
+16,38,Male,Reggae,S8894,Save Your Tears,The Weeknd,Blues,4
+17,20,Female,Blues,S5553,Drivers License,Olivia Rodrigo,Reggae,1
+18,36,Male,Pop,S4335,Good 4 U,Olivia Rodrigo,Hip-Hop,4
+19,40,Non-Binary,Jazz,S3973,Levitating,Dua Lipa,Rock,5
+20,51,Female,Metal,S7908,Watermelon Sugar,Harry Styles,Hip-Hop,4
+21,16,Female,Classical,S5566,Blinding Lights,The Weeknd,Metal,2
+22,33,Female,Metal,S1440,Save Your Tears,The Weeknd,Jazz,1
+23,15,Non-Binary,Metal,S8851,Levitating,Dua Lipa,Classical,4
+24,50,Female,Jazz,S1184,Peaches,Justin Bieber,Country,1
+25,17,Non-Binary,Electronic,S8614,Peaches,Justin Bieber,Pop,1
+26,58,Non-Binary,Rock,S2363,Save Your Tears,The Weeknd,Country,4
+27,51,Non-Binary,Country,S5835,Positions,Ariana Grande,Jazz,3
+28,18,Male,Hip-Hop,S9403,Blinding Lights,The Weeknd,Blues,1
+29,25,Non-Binary,Pop,S6803,Positions,Ariana Grande,Jazz,4
+30,27,Non-Binary,Country,S2618,Levitating,Dua Lipa,Jazz,3
+31,26,Male,Hip-Hop,S3542,Levitating,Dua Lipa,Reggae,2
+32,16,Non-Binary,Country,S3718,Stay,The Kid LAROI,Electronic,2
+33,41,Non-Binary,Country,S6101,Montero,Lil Nas X,Metal,5
+34,44,Female,Classical,S1622,Positions,Ariana Grande,Rock,4
+35,62,Female,Electronic,S6069,Save Your Tears,The Weeknd,Electronic,1
+36,13,Non-Binary,Hip-Hop,S9239,Save Your Tears,The Weeknd,Electronic,3
+37,49,Female,Rock,S7713,Positions,Ariana Grande,Jazz,4
+38,31,Male,Pop,S8688,Good 4 U,Olivia Rodrigo,Blues,2
+39,42,Non-Binary,Blues,S3521,Levitating,Dua Lipa,Rock,4
+40,49,Non-Binary,Country,S3304,Blinding Lights,The Weeknd,Reggae,2
+41,49,Non-Binary,Classical,S5532,Drivers License,Olivia Rodrigo,Electronic,4
+42,28,Non-Binary,Hip-Hop,S7088,Levitating,Dua Lipa,Metal,2
+43,24,Non-Binary,Metal,S6603,Watermelon Sugar,Harry Styles,Rock,1
+44,53,Male,Metal,S2718,Montero,Lil Nas X,Metal,2
+45,24,Male,Jazz,S8019,Save Your Tears,The Weeknd,Reggae,3
+46,21,Non-Binary,Metal,S3038,Peaches,Justin Bieber,Reggae,3
+47,61,Female,Country,S5640,Good 4 U,Olivia Rodrigo,Jazz,5
+48,22,Female,Rock,S9215,Peaches,Justin Bieber,Country,2
+49,51,Male,Pop,S9400,Peaches,Justin Bieber,Metal,2
+50,53,Male,Pop,S2942,Peaches,Justin Bieber,Country,1
+51,42,Non-Binary,Jazz,S6790,Drivers License,Olivia Rodrigo,Blues,2
+52,56,Male,Country,S8313,Good 4 U,Olivia Rodrigo,Electronic,3
+53,63,Male,Metal,S7952,Positions,Ariana Grande,Hip-Hop,3
+54,42,Male,Classical,S3813,Stay,The Kid LAROI,Metal,5
+55,39,Female,Reggae,S7507,Peaches,Justin Bieber,Metal,4
+56,43,Female,Electronic,S5880,Blinding Lights,The Weeknd,Pop,1
+57,29,Female,Hip-Hop,S8761,Levitating,Dua Lipa,Jazz,4
+58,63,Female,Blues,S9440,Positions,Ariana Grande,Classical,5
+59,32,Male,Reggae,S9472,Save Your Tears,The Weeknd,Electronic,5
+60,64,Non-Binary,Jazz,S3242,Positions,Ariana Grande,Blues,5
+61,36,Female,Jazz,S9183,Positions,Ariana Grande,Classical,2
+62,29,Female,Classical,S1729,Stay,The Kid LAROI,Rock,5
+63,51,Female,Country,S3580,Blinding Lights,The Weeknd,Metal,1
+64,42,Female,Electronic,S4315,Save Your Tears,The Weeknd,Pop,3
+65,64,Female,Pop,S2209,Drivers License,Olivia Rodrigo,Jazz,5
+66,23,Non-Binary,Pop,S1891,Stay,The Kid LAROI,Blues,1
+67,25,Male,Rock,S2176,Good 4 U,Olivia Rodrigo,Pop,1
+68,50,Female,Rock,S9391,Levitating,Dua Lipa,Reggae,1
+69,45,Non-Binary,Reggae,S5469,Stay,The Kid LAROI,Metal,3
+70,13,Male,Blues,S5335,Save Your Tears,The Weeknd,Country,4
+71,35,Non-Binary,Classical,S6553,Good 4 U,Olivia Rodrigo,Rock,1
+72,48,Non-Binary,Pop,S4762,Watermelon Sugar,Harry Styles,Rock,4
+73,43,Female,Electronic,S6906,Good 4 U,Olivia Rodrigo,Classical,5
+74,17,Female,Metal,S6535,Stay,The Kid LAROI,Electronic,2
+75,44,Non-Binary,Reggae,S4750,Good 4 U,Olivia Rodrigo,Pop,1
+76,18,Male,Pop,S6760,Montero,Lil Nas X,Hip-Hop,3
+77,25,Male,Classical,S6298,Positions,Ariana Grande,Classical,3
+78,55,Male,Jazz,S8602,Good 4 U,Olivia Rodrigo,Rock,5
+79,27,Non-Binary,Electronic,S8990,Save Your Tears,The Weeknd,Pop,3
+80,41,Male,Electronic,S4899,Save Your Tears,The Weeknd,Electronic,1
+81,43,Non-Binary,Country,S9909,Blinding Lights,The Weeknd,Pop,5
+82,54,Male,Pop,S8852,Save Your Tears,The Weeknd,Country,5
+83,39,Male,Classical,S7968,Peaches,Justin Bieber,Rock,2
+84,24,Male,Blues,S9691,Watermelon Sugar,Harry Styles,Rock,4
+85,18,Male,Pop,S3695,Peaches,Justin Bieber,Metal,1
+86,49,Female,Reggae,S9154,Save Your Tears,The Weeknd,Country,5
+87,31,Non-Binary,Blues,S2967,Montero,Lil Nas X,Blues,1
+88,28,Male,Blues,S7849,Drivers License,Olivia Rodrigo,Pop,2
+89,55,Male,Metal,S3908,Blinding Lights,The Weeknd,Rock,3
+90,43,Male,Country,S5037,Positions,Ariana Grande,Electronic,4
+91,24,Non-Binary,Country,S8005,Positions,Ariana Grande,Jazz,5
+92,42,Male,Rock,S5617,Watermelon Sugar,Harry Styles,Pop,1
+93,53,Non-Binary,Jazz,S4496,Levitating,Dua Lipa,Blues,5
+94,42,Female,Blues,S5611,Stay,The Kid LAROI,Metal,3
+95,44,Female,Classical,S6859,Good 4 U,Olivia Rodrigo,Blues,5
+96,15,Female,Reggae,S7232,Positions,Ariana Grande,Blues,5
+97,21,Female,Hip-Hop,S8693,Blinding Lights,The Weeknd,Rock,5
+98,31,Female,Jazz,S5500,Positions,Ariana Grande,Electronic,2
+99,39,Female,Jazz,S1434,Blinding Lights,The Weeknd,Metal,4
+100,26,Male,Hip-Hop,S3670,Drivers License,Olivia Rodrigo,Rock,4
